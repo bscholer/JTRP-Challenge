@@ -1,0 +1,13 @@
+{
+  "name": "jtrp_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "keywords": [],
+  "author": "Ben Scholer",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.8.35",
+    "papaparse": "^5.3.0"
+  }
+}
